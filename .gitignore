@@ -1,3 +1,4 @@
 
 academic-src/.idea/*
-academic-src/Academic.iml
+academic-src/*.iml
+academic-src/target/
